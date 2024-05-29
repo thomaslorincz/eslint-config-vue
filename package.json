@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-vue",
   "version": "0.1.0",
-  "description": "A reusable eslint config for my Vue projects",
+  "description": "A reusable ESLint config for my Vue projects",
   "main": "index.js",
   "peerDependencies": {
     "@stylistic/eslint-plugin-ts": "^2.1.0",
