@@ -1,2 +1,2 @@
 # eslint-config-vue
-An importable eslint config for my Vue projects
+A reusable eslint config for my Vue projects

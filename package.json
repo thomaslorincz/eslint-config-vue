@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-vue",
+  "version": "0.1.0",
+  "description": "A reusable eslint config for my Vue projects",
+  "main": "index.js",
+  "peerDependencies": {
+    "@stylistic/eslint-plugin-ts": "^2.1.0",
+    "@vue/eslint-config-typescript": "^13.0.0",
+    "eslint": "v8.57.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-storybook": "^0.8.0",
+    "eslint-plugin-vue": "^9.26.0"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin-ts": "^2.1.0",
+    "@vue/eslint-config-typescript": "^13.0.0",
+    "eslint": "v8.57.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-storybook": "^0.8.0",
+    "eslint-plugin-vue": "^9.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaslorincz/eslint-config-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "vue"
+  ],
+  "author": "Thomas Lorincz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomaslorincz/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/thomaslorincz/eslint-config-vue#readme"
+}
