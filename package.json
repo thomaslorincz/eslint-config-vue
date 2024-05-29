@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A reusable ESLint config for my Vue projects",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "peerDependencies": {
     "@stylistic/eslint-plugin-ts": "^2.1.0",
     "@vue/eslint-config-typescript": "^13.0.0",
