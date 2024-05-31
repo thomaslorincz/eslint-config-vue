@@ -1,6 +1,6 @@
 {
   "name": "@thomaslorincz/eslint-config-vue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A reusable ESLint config for my Vue projects",
   "main": "index.js",
   "files": [
