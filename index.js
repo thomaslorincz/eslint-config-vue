@@ -10,6 +10,9 @@ module.exports = {
         '@vue/eslint-config-typescript/recommended',
         'plugin:storybook/recommended',
     ],
+    // Don't ignore Storybook config files (eslint-plugin-storybook)
+    // See https://github.com/storybookjs/eslint-plugin-storybook?tab=readme-ov-file#installation
+    'ignorePatterns': ['!.storybook'],
     'rules': {
         '@stylistic/ts/comma-dangle': ['warn', 'always-multiline'],
         '@stylistic/ts/member-delimiter-style': 'warn',
